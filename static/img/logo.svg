@@ -1,22 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 652 202" width="652" height="202">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="-2.907543 0 374.31902 375.9911" width="374.31902" height="375.9911">
   <defs>
-    <font-face font-family="Futura" font-size="144" panose-1="2 11 6 2 2 2 4 2 3 3" units-per-em="1000" underline-position="-97.65625" underline-thickness="78.125" slope="0" x-height="482.4219" cap-height="761.2305" ascent="1038.5742" descent="-259.76562" font-weight="500">
+    <font-face font-family="Futura" font-size="144.406" panose-1="2 11 6 2 2 2 4 2 3 3" units-per-em="1000" underline-position="-97.65625" underline-thickness="78.125" slope="0" x-height="482.4219" cap-height="761.2305" ascent="1038.5742" descent="-259.76562" font-weight="500">
+      <font-face-src>
+        <font-face-name name="Futura-Medium"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Futura" font-size="189.613" panose-1="2 11 6 2 2 2 4 2 3 3" units-per-em="1000" underline-position="-97.65625" underline-thickness="78.125" slope="0" x-height="482.4219" cap-height="761.2305" ascent="1038.5742" descent="-259.76562" font-weight="500">
       <font-face-src>
         <font-face-name name="Futura-Medium"/>
       </font-face-src>
     </font-face>
   </defs>
-  <metadata> Produced by OmniGraffle 7.17.4\n2020-06-25 14:18:52 +0000</metadata>
-  <g id="Canvas_1" stroke-dasharray="none" fill-opacity="1" fill="none" stroke-opacity="1" stroke="none">
-    <title>Canvas 1</title>
-    <g id="Canvas_1_Layer_1">
+  <metadata> Produced by OmniGraffle 7.18.5\n2021-09-09 13:13:39 +0000</metadata>
+  <g id="Canvas_3" fill-opacity="1" stroke-opacity="1" stroke-dasharray="none" fill="none" stroke="none">
+    <title>Canvas 3</title>
+    <g id="Canvas_3_Layer_1">
       <title>Layer 1</title>
       <g id="Graphic_3">
-        <text transform="translate(5 5)" fill="#838787">
-          <tspan font-family="Futura" font-size="144" font-weight="500" fill="#838787" x="0" y="150">Stack</tspan>
-          <tspan font-family="Futura" font-size="144" font-weight="500" fill="#e6e0c2" y="150">HPC</tspan>
+        <text transform="translate(5.013662 4.777476)" fill="#838787">
+          <tspan font-family="Futura" font-size="144.406" font-weight="500" fill="#838787" x="5115908e-19" y="150">Stack</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4">
+        <text transform="translate(-2.907543 124.34343)" fill="#941100">
+          <tspan font-family="Futura" font-size="189.613" font-weight="500" fill="#941100" x="0" y="197">HPC</tspan>
         </text>
       </g>
     </g>
